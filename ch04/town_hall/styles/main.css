@@ -1,4 +1,4 @@
-*
+
 html
 body {
 	font-family: Arial, Helvetica, sans-serif;
@@ -27,7 +27,6 @@ header img {
 .shadow {
 	text-shadow: 2px 2px 2px #800000;
 }
-/* the styles for the navigation menu */
 #nav_menu ul {
 	list-style-type: none;
 	margin: 0;
@@ -66,8 +65,6 @@ header img {
     clear: both;
     display: block;
 }
-
-/* the styles for the main content */
 main {
 	clear: left;
 }
