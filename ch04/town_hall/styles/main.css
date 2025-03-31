@@ -1,4 +1,4 @@
-/* the styles for the elements */
+*
 html
 body {
 	font-family: Arial, Helvetica, sans-serif;
@@ -7,8 +7,7 @@ body {
 a:focus, a:hover {
 	font-style: italic;
 }
-/* the styles for the header */
-header h1 {
+* header h1 {
 	font-size: 150%;
 	
 }
